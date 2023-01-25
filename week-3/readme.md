@@ -1,8 +1,11 @@
-# ITAS 186 – Chapter 02 and 03 - File and Array
+# Lab – Chapter 02 and 03 - File and Array
 
 Author: Bill Dou \
 Email: bill.dou@itas.ca \
 Updated on Jan 25, 2023
+
+## Review last week lab
+- Login form
 
 ## Complete the following tasks.
 

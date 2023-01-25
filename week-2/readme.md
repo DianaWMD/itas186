@@ -1,4 +1,4 @@
-# ITAS 186 – Chapter 01 PHP Crash Course
+# Lab – Chapter 01 PHP Crash Course
 
 Author: Bill Dou \
 Email: bill.dou@itas.ca \
