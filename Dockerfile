@@ -1,4 +1,4 @@
-FROM php:8.1-apache
+FROM php:8.2-apache
 
 # Install Xdebug
 RUN pecl install xdebug \
@@ -18,9 +18,9 @@ EXPOSE 80
 
 # To build a container using this Dockerfile, you'll need the command:
 #
-# docker build -t apachephp81 .
+# docker build -t apachephp82 .
 # (or call the container whatever you want, here I am using apachephp)
 #
 # And then to run and be able to edit files, we use a volume:
 #
-# docker run --rm --volume "$(pwd):/var/www/html" -d -p 8080:80 --name apachephp81 apachephp81
+# docker run --rm --volume "$(pwd):/var/www/html" -d -p 8080:80 --name apachephp82 apachephp82
