@@ -1,0 +1,9 @@
+<?php
+require('./includes/header.php');
+?>
+    <main>
+        <h1>Homepage</h1>
+    </main>
+<?php
+require('./includes/footer.php');
+?>
